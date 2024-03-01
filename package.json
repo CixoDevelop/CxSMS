@@ -1,0 +1,25 @@
+{
+  "name": "io.cordova.hellocordova",
+  "displayName": "CxSMS",
+  "version": "1.0.0",
+  "description": "CxSMS messages sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CxSMS:SMS"
+  ],
+  "author": "Cixo",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova-android": "^11.0.0",
+    "cordova-browser": "^7.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "browser",
+      "android"
+    ]
+  }
+}
